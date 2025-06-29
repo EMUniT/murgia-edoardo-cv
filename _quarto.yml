@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Edoardo Murgia - CV"
@@ -20,4 +21,3 @@ format:
   html:
     theme: cosmo
     toc: false
-    css: styles.css
