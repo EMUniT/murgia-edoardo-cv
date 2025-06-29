@@ -1,0 +1,39 @@
+---
+title: <img src="resources/icons/user-graduate.png" width="24px"/>  Projects/Group-Works
+format: html
+---
+
+<details>
+<summary><h2>Cleaning and Hail Protection System for Solar Panels</hs></summary>
+
+
+**University of Trento** – Master's Degree in Mechatronics Engineering  
+**Group members**: Filippo Avi, Alberto Giora, Matteo Manzini, Edoardo Murgia, Andrea Silvan  
+**Supervisor**: Prof. Emiliano Rustighi  
+**Academic Year**: 2023/2024  
+**Course**: Mechanical Design for Mechatronics
+
+### Overview
+
+We developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.
+
+### Key Features
+
+- Automatic hail detection using a laser disdrometer sensor (ZDM-100)  
+- Rolling shutter and cleaning brush powered by a single electric motor  
+- Stress and motion analysis of shafts and gear train  
+- Finite Element Analysis (FEM) for mechanical verification  
+- Low-maintenance design, easy installation on standard panel arrays  
+- Water-resistant and IP67-rated components
+
+### Skills Applied
+
+- Mechanical design (CAD, FEM, shaft and gear sizing)  
+- Mechatronic integration (sensor-actuator coupling)  
+- System simulation and power transmission analysis  
+- Team collaboration and report writing (80+ page technical report)
+
+[Download Full Report (PDF)](resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
+
+</details>
+

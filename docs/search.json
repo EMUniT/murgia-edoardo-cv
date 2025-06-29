@@ -1,45 +1,5 @@
 [
   {
-    "objectID": "competenze.html",
-    "href": "competenze.html",
-    "title": " Skills",
-    "section": "",
-    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
-    "crumbs": [
-      "Skills"
-    ]
-  },
-  {
-    "objectID": "competenze.html#languages",
-    "href": "competenze.html#languages",
-    "title": " Skills",
-    "section": "",
-    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
-    "crumbs": [
-      "Skills"
-    ]
-  },
-  {
-    "objectID": "competenze.html#technical-skills",
-    "href": "competenze.html#technical-skills",
-    "title": " Skills",
-    "section": " Technical Skills",
-    "text": "Technical Skills\n\nProgramming Languages\n\nC / C++ - Procedural and Object-Oriented Programming Level: Basic to Intermediate\nLaTex - Academic articles and scientific reports curation Level: Intermediate\n\n\n\nSoftwares & Tools\n\nMATLAB / Simulink (basic familiarity – ongoing learning)\nFusion 360 (basic familiarity – ongoing learning)\nUltimaker Cura (basic familiarity in 3D printing – ongoing learning)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (basic familiarity, used to create this website – ongoing learning)",
-    "crumbs": [
-      "Skills"
-    ]
-  },
-  {
-    "objectID": "competenze.html#digital-skills-self-assessment-based-on-europass-framework",
-    "href": "competenze.html#digital-skills-self-assessment-based-on-europass-framework",
-    "title": " Skills",
-    "section": " Digital Skills (Self-assessment based on Europass framework)",
-    "text": "Digital Skills (Self-assessment based on Europass framework)\n\nInformation Processing: Proficient user\n\nCommunication: Proficient user\n\nContent Creation: Basic user\n\nSafety: Independent user\n\nProblem Solving: Independent user",
-    "crumbs": [
-      "Skills"
-    ]
-  },
-  {
     "objectID": "home.html",
     "href": "home.html",
     "title": " About Me",
@@ -80,8 +40,18 @@
     ]
   },
   {
-    "objectID": "formazione.html",
-    "href": "formazione.html",
+    "objectID": "contents/projects.html",
+    "href": "contents/projects.html",
+    "title": " Projects/Group-Works",
+    "section": "",
+    "text": "Cleaning and Hail Protection System for Solar Panels\n\nUniversity of Trento – Master’s Degree in Mechatronics Engineering\nGroup members: Filippo Avi, Alberto Giora, Matteo Manzini, Edoardo Murgia, Andrea Silvan\nSupervisor: Prof. Emiliano Rustighi\nAcademic Year: 2023/2024\nCourse: Mechanical Design for Mechatronics\n\nOverview\nWe developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.\n\n\nKey Features\n\nAutomatic hail detection using a laser disdrometer sensor (ZDM-100)\n\nRolling shutter and cleaning brush powered by a single electric motor\n\nStress and motion analysis of shafts and gear train\n\nFinite Element Analysis (FEM) for mechanical verification\n\nLow-maintenance design, easy installation on standard panel arrays\n\nWater-resistant and IP67-rated components\n\n\n\nSkills Applied\n\nMechanical design (CAD, FEM, shaft and gear sizing)\n\nMechatronic integration (sensor-actuator coupling)\n\nSystem simulation and power transmission analysis\n\nTeam collaboration and report writing (80+ page technical report)\n\nDownload Full Report (PDF)",
+    "crumbs": [
+      "Projects/Group-Works"
+    ]
+  },
+  {
+    "objectID": "contents/formazione.html",
+    "href": "contents/formazione.html",
     "title": " Education",
     "section": "",
     "text": "University of Trento – Department of Industrial Engineering\nLM-33 – Master’s Degree in Mechatronics Engineering\nExpected graduation: [Summer/Autumn 2026]",
@@ -90,8 +60,8 @@
     ]
   },
   {
-    "objectID": "formazione.html#msc-in-mechatronics-engineering-curriculum-intelligent-vehicles-in-progress",
-    "href": "formazione.html#msc-in-mechatronics-engineering-curriculum-intelligent-vehicles-in-progress",
+    "objectID": "contents/formazione.html#msc-in-mechatronics-engineering-curriculum-intelligent-vehicles-in-progress",
+    "href": "contents/formazione.html#msc-in-mechatronics-engineering-curriculum-intelligent-vehicles-in-progress",
     "title": " Education",
     "section": "",
     "text": "University of Trento – Department of Industrial Engineering\nLM-33 – Master’s Degree in Mechatronics Engineering\nExpected graduation: [Summer/Autumn 2026]",
@@ -100,8 +70,8 @@
     ]
   },
   {
-    "objectID": "formazione.html#bsc-in-industrial-engineering-mechatronics-track",
-    "href": "formazione.html#bsc-in-industrial-engineering-mechatronics-track",
+    "objectID": "contents/formazione.html#bsc-in-industrial-engineering-mechatronics-track",
+    "href": "contents/formazione.html#bsc-in-industrial-engineering-mechatronics-track",
     "title": " Education",
     "section": "BSc in Industrial Engineering, Mechatronics Track",
     "text": "BSc in Industrial Engineering, Mechatronics Track\n\nUniversity of Trento – Department of Industrial Engineering\nL-9 – Bachelor’s Degree in Industrial Engineering\nThesis: Neural Networks and Autonomous Vehicles: Current Challenges and Future Perspectives\nSupervisor: Prof. Paolo Rech\nFinal Grade: 96/110\nGraduation Date: March 17, 2023",
@@ -110,8 +80,8 @@
     ]
   },
   {
-    "objectID": "formazione.html#high-school-diploma-in-applied-sciences",
-    "href": "formazione.html#high-school-diploma-in-applied-sciences",
+    "objectID": "contents/formazione.html#high-school-diploma-in-applied-sciences",
+    "href": "contents/formazione.html#high-school-diploma-in-applied-sciences",
     "title": " Education",
     "section": "High School Diploma in Applied Sciences",
     "text": "High School Diploma in Applied Sciences\n\nLiceo Scientifico “Girolamo Fracastoro”, Verona – State High School\nFinal Grade: 85/100\nType: Italian Scientific High School Diploma (Scienze Applicate)",
@@ -120,13 +90,43 @@
     ]
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": " Projects/Group-Works",
+    "objectID": "contents/competenze.html",
+    "href": "contents/competenze.html",
+    "title": "Skills",
     "section": "",
-    "text": "Cleaning and Hail Protection System for Solar Panels\n\nUniversity of Trento – Master’s Degree in Mechatronics Engineering\nGroup members: Filippo Avi, Alberto Giora, Matteo Manzini, Edoardo Murgia, Andrea Silvan\nSupervisor: Prof. Emiliano Rustighi\nAcademic Year: 2023/2024\nCourse: Mechanical Design for Mechatronics\n\nOverview\nWe developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.\n\n\nKey Features\n\nAutomatic hail detection using a laser disdrometer sensor (ZDM-100)\n\nRolling shutter and cleaning brush powered by a single electric motor\n\nStress and motion analysis of shafts and gear train\n\nFinite Element Analysis (FEM) for mechanical verification\n\nLow-maintenance design, easy installation on standard panel arrays\n\nWater-resistant and IP67-rated components\n\n\n\nSkills Applied\n\nMechanical design (CAD, FEM, shaft and gear sizing)\n\nMechatronic integration (sensor-actuator coupling)\n\nSystem simulation and power transmission analysis\n\nTeam collaboration and report writing (80+ page technical report)\n\nDownload Full Report (PDF)",
+    "text": "title: “Skills” format: html —",
     "crumbs": [
-      "Projects/Group-Works"
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "contents/competenze.html#languages",
+    "href": "contents/competenze.html#languages",
+    "title": "Skills",
+    "section": " Languages",
+    "text": "Languages\n\nItalian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
+    "crumbs": [
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "contents/competenze.html#technical-skills",
+    "href": "contents/competenze.html#technical-skills",
+    "title": "Skills",
+    "section": " Technical Skills",
+    "text": "Technical Skills\n\nProgramming Languages\n\nC / C++ - Procedural and Object-Oriented Programming Level: Basic to Intermediate\nLaTex - Academic articles and scientific reports curation Level: Intermediate\n\n\n\nSoftwares & Tools\n\nMATLAB / Simulink (basic familiarity – ongoing learning)\nFusion 360 (basic familiarity – ongoing learning)\nUltimaker Cura (basic familiarity in 3D printing – ongoing learning)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (basic familiarity, used to create this website – ongoing learning)",
+    "crumbs": [
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "contents/competenze.html#digital-skills-self-assessment-based-on-europass-framework",
+    "href": "contents/competenze.html#digital-skills-self-assessment-based-on-europass-framework",
+    "title": "Skills",
+    "section": " Digital Skills (Self-assessment based on Europass framework)",
+    "text": "Digital Skills (Self-assessment based on Europass framework)\n\nInformation Processing: Proficient user\n\nCommunication: Proficient user\n\nContent Creation: Basic user\n\nSafety: Independent user\n\nProblem Solving: Independent user",
+    "crumbs": [
+      "Skills"
     ]
   }
 ]

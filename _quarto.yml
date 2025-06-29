@@ -10,11 +10,11 @@ website:
     contents:
       - href: home.qmd
         text: "About Me"
-      - href: formazione.qmd
+      - href: contents/formazione.qmd
         text: "Education"
-      - href: competenze.qmd
+      - href: contents/competenze.qmd
         text: "Skills"
-      - href: projects.qmd
+      - href: contents/projects.qmd
         text: "Projects/Group-Works"
 
 format:

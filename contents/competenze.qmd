@@ -1,0 +1,44 @@
+---
+title: "Skills"
+format: html
+---
+
+# ---
+title: "Skills"
+format: html
+---
+
+# <img src="resources/icons/responsability.png" width="24px"/> Skills 
+
+## <img src="resources/icons/language-exchange.png" width="18px"/> Languages
+- **Italian** – Native speaker  
+- **English** – B2 (Upper-Intermediate)  
+  *Cambridge First Certificate in English (FCE)*
+
+---
+
+## <img src="resources/icons/user-skill-gear.png" width="20px"/> Technical Skills
+
+### Programming Languages
+- **C / C++** - Procedural and Object-Oriented Programming<br> 
+  *Level: Basic to Intermediate*
+- **LaTex** - Academic articles and scientific reports curation<br>
+  *Level: Intermediate*
+
+### Softwares & Tools
+- **MATLAB** / Simulink (basic familiarity – ongoing learning)
+- **Fusion 360** (basic familiarity – ongoing learning)
+- **Ultimaker Cura** (basic familiarity in 3D printing – ongoing learning)
+- **Microsoft Office** Suite (advanced)
+- Git & **GitHub** (version control – ongoing learning)
+- **Quarto** (basic familiarity, used to create this website – ongoing learning)
+
+---
+
+## <img src="resources/icons/digital-key.png" width="20px"/> Digital Skills (Self-assessment based on Europass framework)
+
+- **Information Processing:** Proficient user  
+- **Communication:** Proficient user  
+- **Content Creation:** Basic user  
+- **Safety:** Independent user  
+- **Problem Solving:** Independent user
