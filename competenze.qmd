@@ -1,0 +1,34 @@
+---
+title: "Skills"
+format: html
+---
+
+## Technical Skills
+
+### Programming Languages
+- **C / C++** – Procedural and Object-Oriented Programming  
+  *Level: Basic to Intermediate*
+
+### Software & Tools
+- MATLAB / Simulink (basic familiarity)
+- Microsoft Office Suite (advanced)
+- Git & GitHub (version control – ongoing learning)
+- Quarto (used to create this website)
+
+---
+
+## Digital Skills (Self-assessment based on Europass framework)
+
+- **Information Processing:** Proficient user  
+- **Communication:** Proficient user  
+- **Content Creation:** Basic user  
+- **Safety:** Independent user  
+- **Problem Solving:** Independent user
+
+---
+
+## Languages
+
+- **Italian** – Native speaker  
+- **English** – B2 (Upper-Intermediate)  
+  *Cambridge First Certificate in English (FCE)*

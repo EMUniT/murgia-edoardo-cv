@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Edoardo Murgia - CV"
+  sidebar:
+    style: "floating"
+    collapse-level: 1
+    contents:
+      - href: home.qmd
+        text: "About Me"
+      - href: formazione.qmd
+        text: "Education"
+      - href: competenze.qmd
+        text: "Skills"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
