@@ -2,9 +2,9 @@
   {
     "objectID": "competenze.html",
     "href": "competenze.html",
-    "title": "Skills",
+    "title": " Skills",
     "section": "",
-    "text": "C / C++ – Procedural and Object-Oriented Programming\nLevel: Basic to Intermediate\n\n\n\n\n\nMATLAB / Simulink (basic familiarity)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (used to create this website)",
+    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
     "crumbs": [
       "Skills"
     ]
@@ -12,9 +12,9 @@
   {
     "objectID": "competenze.html#technical-skills",
     "href": "competenze.html#technical-skills",
-    "title": "Skills",
-    "section": "",
-    "text": "C / C++ – Procedural and Object-Oriented Programming\nLevel: Basic to Intermediate\n\n\n\n\n\nMATLAB / Simulink (basic familiarity)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (used to create this website)",
+    "title": " Skills",
+    "section": " Technical Skills",
+    "text": "Technical Skills\n\nProgramming Languages\n\nC / C++ - Procedural and Object-Oriented Programming Level: Basic to Intermediate\nLaTex - Academic articles and scientific reports curation Level: Intermediate\n\n\n\nSoftwares & Tools\n\nMATLAB / Simulink (basic familiarity – ongoing learning)\nFusion 360 (basic familiarity – ongoing learning)\nUltimaker Cura (basic familiarity in 3D printing – ongoing learning)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (basic familiarity, used to create this website – ongoing learning)",
     "crumbs": [
       "Skills"
     ]
@@ -22,8 +22,8 @@
   {
     "objectID": "competenze.html#digital-skills-self-assessment-based-on-europass-framework",
     "href": "competenze.html#digital-skills-self-assessment-based-on-europass-framework",
-    "title": "Skills",
-    "section": "Digital Skills (Self-assessment based on Europass framework)",
+    "title": " Skills",
+    "section": " Digital Skills (Self-assessment based on Europass framework)",
     "text": "Digital Skills (Self-assessment based on Europass framework)\n\nInformation Processing: Proficient user\n\nCommunication: Proficient user\n\nContent Creation: Basic user\n\nSafety: Independent user\n\nProblem Solving: Independent user",
     "crumbs": [
       "Skills"
@@ -32,9 +32,9 @@
   {
     "objectID": "competenze.html#languages",
     "href": "competenze.html#languages",
-    "title": "Skills",
-    "section": "Languages",
-    "text": "Languages\n\nItalian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
+    "title": " Skills",
+    "section": "",
+    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
     "crumbs": [
       "Skills"
     ]
@@ -157,6 +157,26 @@
     "text": "Generalities\n\n Date of Birth: 27/10/1997\n\n Age: 27\n\n Place of Birth: Negrar di Valpolicella (VR)\n\n Citizenship: Italian\n\n Location: Trento\n\n Driving Licenses: • B – Car • A – Full Motorcycle License (A3), obtained in 2024",
     "crumbs": [
       "About Me"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": " Projects/Group-Works",
+    "section": "",
+    "text": "Cleaning and Hail Protection System for Solar Panels\n\nUniversity of Trento – Master’s Degree in Mechatronics Engineering\nGroup members: Filippo Avi, Alberto Giora, Matteo Manzini, Edoardo Murgia, Andrea Silvan\nSupervisor: Prof. Emiliano Rustighi\nAcademic Year: 2023/2024\nCourse: Mechanical Design for Mechatronics\n\nOverview\nWe developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.\n\n\nKey Features\n\nAutomatic hail detection using a laser disdrometer sensor (ZDM-100)\n\nRolling shutter and cleaning brush powered by a single electric motor\n\nStress and motion analysis of shafts and gear train\n\nFinite Element Analysis (FEM) for mechanical verification\n\nLow-maintenance design, easy installation on standard panel arrays\n\nWater-resistant and IP67-rated components\n\n\n\nSkills Applied\n\nMechanical design (CAD, FEM, shaft and gear sizing)\n\nMechatronic integration (sensor-actuator coupling)\n\nSystem simulation and power transmission analysis\n\nTeam collaboration and report writing (80+ page technical report)\n\nDownload Full Report (PDF)",
+    "crumbs": [
+      "Projects/Group-Works"
+    ]
+  },
+  {
+    "objectID": "projects.html#cleaning-and-hail-protection-system-for-solar-panels",
+    "href": "projects.html#cleaning-and-hail-protection-system-for-solar-panels",
+    "title": " Projects/Group-Works",
+    "section": "",
+    "text": "University of Trento – Master’s Degree in Mechatronics Engineering\nGroup members: Filippo Avi, Alberto Giora, Matteo Manzini, Edoardo Murgia, Andreea Silvan\nSupervisor: Prof. Emiliano Rustighi\nAcademic Year: 2023/2024\nCourse: Mechanical Design for Mechatronics\n\n\nWe developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.\n\n\n\n\nAutomatic hail detection using a laser disdrometer sensor (ZDM-100)\n\nRolling shutter and cleaning brush powered by a single electric motor\n\nStress and motion analysis of shafts and gear train\n\nFinite Element Analysis (FEM) for mechanical verification\n\nLow-maintenance design, easy installation on standard panel arrays\n\nWater-resistant and IP67-rated components\n\n\n\n\n\nMechanical design (CAD, FEM, shaft and gear sizing)\n\nMechatronic integration (sensor-actuator coupling)\n\nSystem simulation and power transmission analysis\n\nTeam collaboration and report writing (80+ page technical report)\n\n\n\n\n\n\n\nNote\n\n\n\nDownload Full Report (PDF)",
+    "crumbs": [
+      "Projects/Group-Works"
     ]
   }
 ]

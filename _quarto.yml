@@ -13,6 +13,8 @@ website:
         text: "Education"
       - href: competenze.qmd
         text: "Skills"
+      - href: projects.qmd
+        text: "Projects/Group-Works"
 
 format:
   html:
