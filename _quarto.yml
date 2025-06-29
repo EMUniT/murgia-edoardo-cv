@@ -8,6 +8,7 @@ project:
 
 website:
   title: "Edoardo Murgia - CV"
+  site-url: "https://edoardomurgia.github.io/murgia-edoardo-cv"
   sidebar:
     style: "floating"
     collapse-level: 1
