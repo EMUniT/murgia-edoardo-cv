@@ -1,16 +1,16 @@
 ---
-title: <img src="resources/icons/responsability.png" width="24px"/> Skills 
+title: <img src="../resources/icons/responsability.png" width="24px"/> Skills 
 format: html
 ---
 
-## <img src="resources/icons/language-exchange.png" width="18px"/> Languages
+## <img src="../resources/icons/language-exchange.png" width="18px"/> Languages
 - **Italian** – Native speaker  
 - **English** – B2 (Upper-Intermediate)  
   *Cambridge First Certificate in English (FCE)*
 
 ---
 
-## <img src="resources/icons/user-skill-gear.png" width="20px"/> Technical Skills
+## <img src="../resources/icons/user-skill-gear.png" width="20px"/> Technical Skills
 
 ### Programming Languages
 - **C / C++** - Procedural and Object-Oriented Programming<br> 
@@ -28,7 +28,7 @@ format: html
 
 ---
 
-## <img src="resources/icons/digital-key.png" width="20px"/> Digital Skills (Self-assessment based on Europass framework)
+## <img src="../resources/icons/digital-key.png" width="20px"/> Digital Skills (Self-assessment based on Europass framework)
 
 - **Information Processing:** Proficient user  
 - **Communication:** Proficient user  

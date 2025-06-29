@@ -1,10 +1,10 @@
 ---
-title: <img src="resources/icons/user-graduate.png" width="24px"/>  Education
+title: <img src="../resources/icons/user-graduate.png" width="24px"/>  Education
 format: html
 ---
 
 ## MSc in Mechatronics Engineering (curriculum: Intelligent Vehicles) – *in progress*  
-<img src="resources/images/unitn.jpeg" width="90px"/> 
+<img src="../resources/images/unitn.jpeg" width="90px"/> 
 
 University of Trento – Department of Industrial Engineering  
 LM-33 – Master's Degree in Mechatronics Engineering  
@@ -13,7 +13,7 @@ LM-33 – Master's Degree in Mechatronics Engineering
 ---
 
 ## BSc in Industrial Engineering, Mechatronics Track  
-<img src="resources/images/unitn.jpeg" width="90px"/>
+<img src="../resources/images/unitn.jpeg" width="90px"/>
 
 University of Trento – Department of Industrial Engineering  
 L-9 – Bachelor's Degree in Industrial Engineering  
@@ -25,7 +25,7 @@ L-9 – Bachelor's Degree in Industrial Engineering
 ---
 
 ## High School Diploma in Applied Sciences  
-<img src="resources/images/fracca.png" width="30px"/>  
+<img src="../resources/images/fracca.png" width="30px"/>  
 
 Liceo Scientifico “Girolamo Fracastoro”, Verona – State High School  
 **Final Grade:** 85/100  
