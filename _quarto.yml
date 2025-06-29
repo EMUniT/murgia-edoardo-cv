@@ -9,9 +9,10 @@ project:
 
 
 website:
-  title: "Edoardo Murgia - CV"
+  title: "Edoardo Murgia - Curriculum Vitae"
   site-url: "https://emunit.github.io/murgia-edoardo-cv"
   sidebar:
+    search: false
     style: "floating"
     collapse-level: 1
     contents:
