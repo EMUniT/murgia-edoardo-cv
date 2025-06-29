@@ -1,11 +1,12 @@
 project:
   type: website
+  output-dir: docs
   resources:
     - resources/images
     - resources/icons
     - resources/files
 
-output-dir: docs
+
 
 website:
   title: "Edoardo Murgia - CV"
