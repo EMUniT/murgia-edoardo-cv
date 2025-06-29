@@ -1,5 +1,5 @@
 ---
-title: <img src="/resources/icons/user-graduate.png" width="24px"/>  Projects/Group-Works
+title: <img src="resources/icons/user-graduate.png" width="24px"/>  Projects/Group-Works
 format: html
 ---
 
@@ -33,7 +33,7 @@ We developed a multifunctional system to protect photovoltaic panels from hail a
 - System simulation and power transmission analysis  
 - Team collaboration and report writing (80+ page technical report)
 
-[Download Full Report (PDF)](/resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
+[Download Full Report (PDF)](resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
 
 </details>
 
