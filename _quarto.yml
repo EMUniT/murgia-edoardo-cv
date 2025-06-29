@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - resources/images
+    - resources/icons
+    - resources/files
 
 website:
   title: "Edoardo Murgia - CV"
@@ -8,7 +12,7 @@ website:
     style: "floating"
     collapse-level: 1
     contents:
-      - href: home.qmd
+      - href: index.qmd
         text: "About Me"
       - href: contents/formazione.qmd
         text: "Education"

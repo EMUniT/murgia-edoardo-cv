@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "home.html",
-    "href": "home.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": " About Me",
     "section": "",
     "text": "I am a Master’s student in Mechatronics Engineering at the University of Trento, following the Intelligent Vehicles curriculum.\nI have a keen interest in research and development within the mechanical and electronic domains. I am passionate about technology, with a strong attitude toward problem solving, independent work, and team collaboration.",
@@ -10,8 +10,8 @@
     ]
   },
   {
-    "objectID": "home.html#generalities",
-    "href": "home.html#generalities",
+    "objectID": "index.html#generalities",
+    "href": "index.html#generalities",
     "title": " About Me",
     "section": " Generalities",
     "text": "Generalities\n\n Date of Birth: 27/10/1997\n\n Age: 27\n\n Place of Birth: Negrar di Valpolicella (VR)\n\n Citizenship: Italian\n\n Location: Trento\n\n Driving Licenses: • B – Car • A – Full Motorcycle License (A3), obtained in 2024",
@@ -20,8 +20,8 @@
     ]
   },
   {
-    "objectID": "home.html#hobbies-and-interests",
-    "href": "home.html#hobbies-and-interests",
+    "objectID": "index.html#hobbies-and-interests",
+    "href": "index.html#hobbies-and-interests",
     "title": " About Me",
     "section": " Hobbies and Interests",
     "text": "Hobbies and Interests\n\nMotorsport enthusiast – especially cars and motorcycles\nPassionate motorcycle rider\nInterested in emerging technologies and innovation\n\nSwimmer\nOccasional outdoor basketball with friends",
@@ -30,8 +30,8 @@
     ]
   },
   {
-    "objectID": "home.html#contacts",
-    "href": "home.html#contacts",
+    "objectID": "index.html#contacts",
+    "href": "index.html#contacts",
     "title": " About Me",
     "section": " Contacts",
     "text": "Contacts\n\n Email: edoardo.murgia@icloud.com\n\n Mobile: +39 340 642 9679",
@@ -92,9 +92,9 @@
   {
     "objectID": "contents/competenze.html",
     "href": "contents/competenze.html",
-    "title": "Skills",
+    "title": " Skills",
     "section": "",
-    "text": "title: “Skills” format: html —",
+    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
     "crumbs": [
       "Skills"
     ]
@@ -102,9 +102,9 @@
   {
     "objectID": "contents/competenze.html#languages",
     "href": "contents/competenze.html#languages",
-    "title": "Skills",
-    "section": " Languages",
-    "text": "Languages\n\nItalian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
+    "title": " Skills",
+    "section": "",
+    "text": "Italian – Native speaker\n\nEnglish – B2 (Upper-Intermediate)\nCambridge First Certificate in English (FCE)",
     "crumbs": [
       "Skills"
     ]
@@ -112,7 +112,7 @@
   {
     "objectID": "contents/competenze.html#technical-skills",
     "href": "contents/competenze.html#technical-skills",
-    "title": "Skills",
+    "title": " Skills",
     "section": " Technical Skills",
     "text": "Technical Skills\n\nProgramming Languages\n\nC / C++ - Procedural and Object-Oriented Programming Level: Basic to Intermediate\nLaTex - Academic articles and scientific reports curation Level: Intermediate\n\n\n\nSoftwares & Tools\n\nMATLAB / Simulink (basic familiarity – ongoing learning)\nFusion 360 (basic familiarity – ongoing learning)\nUltimaker Cura (basic familiarity in 3D printing – ongoing learning)\nMicrosoft Office Suite (advanced)\nGit & GitHub (version control – ongoing learning)\nQuarto (basic familiarity, used to create this website – ongoing learning)",
     "crumbs": [
@@ -122,7 +122,7 @@
   {
     "objectID": "contents/competenze.html#digital-skills-self-assessment-based-on-europass-framework",
     "href": "contents/competenze.html#digital-skills-self-assessment-based-on-europass-framework",
-    "title": "Skills",
+    "title": " Skills",
     "section": " Digital Skills (Self-assessment based on Europass framework)",
     "text": "Digital Skills (Self-assessment based on Europass framework)\n\nInformation Processing: Proficient user\n\nCommunication: Proficient user\n\nContent Creation: Basic user\n\nSafety: Independent user\n\nProblem Solving: Independent user",
     "crumbs": [

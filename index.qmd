@@ -1,0 +1,47 @@
+---
+title: <img src="/resources/icons/user.png" width="24px"/> About Me
+format: html
+---
+
+<div style="display: flex; align-items: flex-start; gap: 2em;">
+
+  <img src="/resources/images/profile.jpeg" width="200px" style="border-radius: 50%;"/>
+
+  <div>
+
+  I am a Master's student in Mechatronics Engineering at the University of Trento, following the *Intelligent Vehicles* curriculum.  
+  I have a keen interest in research and development within the mechanical and electronic domains. I am passionate about technology, with a strong attitude toward problem solving, independent work, and team collaboration.
+
+  </div>
+
+</div>
+
+---
+
+## <img src="/resources/icons/info.png" width="20px"/> Generalities
+
+- <img src="/resources/icons/calendar.png" width="13px"/> **Date of Birth:** 27/10/1997  
+- <img src="/resources/icons/age.png" width="13px"/> **Age:** 27  
+- <img src="/resources/icons/hospital.png" width="13px"/> **Place of Birth:** Negrar di Valpolicella (VR)  
+- <img src="/resources/icons/pisa-tower.png" width="13px"/> **Citizenship:** Italian  
+- <img src="/resources/icons/home.png" width="13px"/> **Location:** Trento  
+- <img src="/resources/icons/license.png" width="13px"/> **Driving Licenses:**<br>
+  • B – Car<br>
+  • A – Full Motorcycle License (A3), obtained in 2024
+
+---
+
+## <img src="/resources/icons/puzzle-alt.png" width="20px"/> Hobbies and Interests
+
+- Motorsport enthusiast – especially cars and motorcycles
+- Passionate motorcycle rider
+- Interested in emerging technologies and innovation  
+- Swimmer
+- Occasional outdoor basketball with friends
+
+--- 
+
+## <img src="/resources/icons/phone-guide.png" width="20px"/> Contacts
+
+- <img src="/resources/icons/envelope.png" width="13px"/> **Email:** edoardo.murgia@icloud.com  
+- <img src="/resources/icons/phone-call.png" width="13px"/> **Mobile:** +39 340 642 9679 
