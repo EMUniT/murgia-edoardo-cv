@@ -22,7 +22,7 @@ format: html
 - **MATLAB** / Simulink (basic familiarity – ongoing learning)
 - **Fusion 360** (basic familiarity – ongoing learning)
 - **Ultimaker Cura** (basic familiarity in 3D printing – ongoing learning)
-- **Microsoft Office** Suite (advanced)
+- **Microsoft Office Suite** (advanced)
 - Git & **GitHub** (version control – ongoing learning)
 - **Quarto** (basic familiarity, used to create this website – ongoing learning)
 

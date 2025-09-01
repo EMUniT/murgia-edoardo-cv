@@ -24,10 +24,10 @@ format: html
 - <img src="resources/icons/age.png" width="13px"/> **Age:** 27  
 - <img src="resources/icons/hospital.png" width="13px"/> **Place of Birth:** Negrar di Valpolicella (VR)  
 - <img src="resources/icons/pisa-tower.png" width="13px"/> **Citizenship:** Italian  
-- <img src="resources/icons/home.png" width="13px"/> **Location:** Trento  
+- <img src="resources/icons/home.png" width="13px"/> **Location:** Bologna  
 - <img src="resources/icons/license.png" width="13px"/> **Driving Licenses:**<br>
   • B – Car<br>
-  • A – Full Motorcycle License (A3), obtained in 2024
+  • A – Full Motorcycle License (A3)
 
 ---
 
@@ -36,8 +36,8 @@ format: html
 - Motorsport enthusiast – especially cars and motorcycles
 - Passionate motorcycle rider
 - Interested in emerging technologies and innovation  
-- Swimmer
-- Occasional outdoor basketball with friends
+- Cooking enthusiast – enjoy bringing people together over a good meal
+- Patented scuba diver
 
 --- 
 

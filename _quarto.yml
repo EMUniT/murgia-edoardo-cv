@@ -27,5 +27,5 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     toc: false
