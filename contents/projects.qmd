@@ -35,3 +35,36 @@ We developed a multifunctional system to protect photovoltaic panels from hail a
 [Download Full Report (PDF)](../resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
 
 </details>
+
+<details>
+<summary><h2>Autonomous Driving System for Traffic Lights</h2></summary>
+
+**University of Trento** – Master's Degree in Mechatronics Engineering  
+**Student**: Edoardo Murgia  
+**Supervisor**: Prof. Rosati Papini Gastone Pietro  
+**Academic Year**: 2024/2025  
+**Course**: Intelligent Vehicles and Autonomous Driving  
+
+### Overview
+
+I developed a longitudinal control system for an autonomous vehicle to manage interactions with traffic lights, reproducing **human-like driving behaviors**. The project combines optimal control methods with biologically inspired decision-making strategies and was implemented in **C++** with the aid of **MATLAB** for optimization.
+
+### Key Features
+
+- **Minimum-jerk optimal control problem** to generate smooth and realistic trajectories  
+- Definition of **stop and pass motion primitives**, with constraints on position, velocity, and acceleration  
+- **Action selection mechanism** based on a receding-horizon approach and inspired by basal ganglia decision processes  
+- **Low-level PI controller** to track optimal trajectories and handle wind-up issues  
+- Integration of MATLAB optimal solutions into C++ code for real-time implementation  
+
+### Skills Applied
+
+- Optimal control formulation and problem solving (minimum-jerk trajectories)  
+- Control system design (PI control, stability analysis)  
+- C++ programming and MATLAB simulation  
+- Application of biologically inspired decision models  
+- Scientific reporting and technical presentation
+
+[Download a quick Presentation](../resources/files/IVAD MURGIA EDOARDO){.btn .btn-primary target="_blank"}
+
+</details>
