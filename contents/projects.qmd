@@ -65,6 +65,7 @@ I developed a longitudinal control system for an autonomous vehicle to manage in
 - Application of biologically inspired decision models  
 - Scientific reporting and technical presentation
 
-[Download a quick Presentation](../resources/files/IVAD MURGIA EDOARDO){.btn .btn-primary target="_blank"}
+[View a quick Presentation](../resources/files/IVAD MURGIA EDOARDO){.btn .btn-primary target="_blank"}
+[View the Code](../code){.btn .btn-outline-primary target="_blank"}
 
 </details>
