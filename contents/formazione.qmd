@@ -22,7 +22,7 @@ L-9 – Bachelor's Degree in Industrial Engineering
 **Final Grade:** 96/110  
 **Graduation Date:** March 17, 2023
 
-[Download thesis (italian) (PDF)](../resources/files/Reti%20neurali%20e%20veicoli%20autonomi.pdf){.btn .btn-primary .btn-sm target="_blank"}  
+[View thesis (italian) (PDF)](../resources/files/Reti%20neurali%20e%20veicoli%20autonomi.pdf){.btn .btn-primary .btn-sm target="_blank"}  
 
 ---
 

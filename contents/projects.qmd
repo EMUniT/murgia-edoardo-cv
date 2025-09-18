@@ -14,7 +14,7 @@ format: html
 
 ### Overview
 
-We developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling brush cleaning mechanism, both actuated by a shared motor-transmission unit.
+We developed a multifunctional system to protect photovoltaic panels from hail and ensure optimal performance through autonomous cleaning. The solution integrates a retractable anti-hail net and a rolling-brush-cleaning mechanism, both actuated by a shared motor-transmission unit.
 
 ### Key Features
 
@@ -31,7 +31,7 @@ We developed a multifunctional system to protect photovoltaic panels from hail a
 - System simulation and power transmission analysis  
 - Team collaboration and report writing (80+ page technical report)
 
-[Download Full Report (PDF)](../resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
+[View Full Report (PDF)](../resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
 
 </details>
 <details>
@@ -60,7 +60,7 @@ I developed a longitudinal control system for an autonomous vehicle to manage in
 - Optimal control formulation and problem solving (minimum-jerk trajectories)  
 - Control system design (PI control, stability analysis)  
 - C++ programming and MATLAB simulation  
-- Application of biologically inspired decision models  
+- Application of biologically-inspired decision models  
 - Scientific reporting and technical presentation
 
 [View a quick Presentation](../resources/files/IVAD MURGIA EDOARDO){.btn .btn-primary target="_blank"}

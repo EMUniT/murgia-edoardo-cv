@@ -42,7 +42,7 @@ format: html
 
 - **Teamwork and collaboration** – thrive in group settings, value mutual support, and contribute actively to collective success
 - **Problem-solving and creativity** – approach challenges with innovative solutions, often going beyond the standard path
-- **Effective communication** – strong written skills for technical accuracy and clear oral communication for discussions and idea sharing
+- **Effective communication** – strong written skills for technical accuracy and clear oral communication for discussions and idea-sharing
 - **Time management** – able to plan thoroughly and in advance when engaged with meaningful tasks
 - **Adaptability and organizational skills** – respond to unexpected changes by reorganizing workflows and optimizing processes
 - **Collaborative leadership** – experienced in leading teams, focusing on guidance, listening, and shared responsibility

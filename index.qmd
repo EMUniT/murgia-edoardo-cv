@@ -9,8 +9,8 @@ format: html
 
   <div>
 
-  I am a Master's student in Mechatronics Engineering at the University of Trento, following the *Intelligent Vehicles* curriculum.  
-  I have a keen interest in research and development within the mechanical and electronic domains. I am passionate about technology, with a strong attitude toward problem solving, independent work, and team collaboration.
+  I am a Master's student in Mechatronics Engineering at the University of Trento, attending the *Intelligent Vehicles* curriculum.  
+  I have a keen interest in research and development within the mechanical and electronic domains. I am passionate about technology, with a strong attitude toward problem-solving, independent work, and team collaboration.
 
   </div>
 
