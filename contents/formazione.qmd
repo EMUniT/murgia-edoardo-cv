@@ -12,15 +12,17 @@ LM-33 – Master's Degree in Mechatronics Engineering
 
 ---
 
-## BSc in Industrial Engineering, Mechatronics Track  
+## BSc in Industrial Engineering (curriculum: Mechatronics)
 <img src="../resources/images/unitn.jpeg" width="90px"/>
 
 University of Trento – Department of Industrial Engineering  
 L-9 – Bachelor's Degree in Industrial Engineering  
-**Thesis:** Neural Networks and Autonomous Vehicles: Current Challenges and Future Perspectives  
+**Thesis:** Neural Networks and Autonomous Vehicles: Current Challenges and Future Perspectives
 **Supervisor:** Prof. Paolo Rech  
 **Final Grade:** 96/110  
 **Graduation Date:** March 17, 2023
+
+[Download thesis (italian) (PDF)](../resources/files/Reti%20neurali%20e%20veicoli%20autonomi.pdf){.btn .btn-primary .btn-sm target="_blank"}  
 
 ---
 

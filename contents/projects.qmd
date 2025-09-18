@@ -20,14 +20,13 @@ We developed a multifunctional system to protect photovoltaic panels from hail a
 
 - Automatic hail detection using a laser disdrometer sensor (ZDM-100)  
 - Rolling shutter and cleaning brush powered by a single electric motor  
-- Stress and motion analysis of shafts and gear train  
-- Finite Element Analysis (FEM) for mechanical verification  
+- Stress and motion analysis of shafts and gear train   
 - Low-maintenance design, easy installation on standard panel arrays  
 - Water-resistant and IP67-rated components
 
 ### Skills Applied
 
-- Mechanical design (CAD, FEM, shaft and gear sizing)  
+- Mechanical design (CAD, shaft and gear sizing)  
 - Mechatronic integration (sensor-actuator coupling)  
 - System simulation and power transmission analysis  
 - Team collaboration and report writing (80+ page technical report)
@@ -35,7 +34,6 @@ We developed a multifunctional system to protect photovoltaic panels from hail a
 [Download Full Report (PDF)](../resources/files/solar-panel-project.pdf){.btn .btn-primary target="_blank"}
 
 </details>
-
 <details>
 <summary><h2>Autonomous Driving System for Traffic Lights</h2></summary>
 
@@ -66,6 +64,7 @@ I developed a longitudinal control system for an autonomous vehicle to manage in
 - Scientific reporting and technical presentation
 
 [View a quick Presentation](../resources/files/IVAD MURGIA EDOARDO){.btn .btn-primary target="_blank"}
-[View the Code](https://github.com/EMUniT/murgia-edoardo-cv/tree/main/code){.btn .btn-outline-primary target="_blank"}
 
+<span style="font-size:0.8em;">Unfortunately, when I wrote the code I did not add comments to make it easily readable by others. However, the main files that compose the project can be found in the following repository:</span>  
+[View the Code](https://github.com/EMUniT/murgia-edoardo-cv/tree/main/code){.btn .btn-primary .btn-sm target="_blank"}
 </details>

@@ -14,7 +14,7 @@ format: html
 
 ### Programming Languages
 - **C / C++** - Procedural and Object-Oriented Programming<br> 
-  *Level: Basic to Intermediate*
+  *Level: Basic to Intermediate* - ongoing learning
 - **LaTex** - Academic articles and scientific reports curation<br>
   *Level: Intermediate*
 
@@ -48,3 +48,5 @@ format: html
 - **Collaborative leadership** – experienced in leading teams, focusing on guidance, listening, and shared responsibility
 - **Fast learner with critical thinking** – quickly acquire new knowledge from multiple sources to ensure reliability
 - **Resilience** – turn mistakes and failures into opportunities for growth and improvement
+
+---
