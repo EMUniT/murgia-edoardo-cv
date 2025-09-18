@@ -1,7 +1,6 @@
-// MURGIA EDOARDO
-
 //
 // Created by Gastone Pietro Rosati Papini on 10/08/22.
+// Modified by Murgia Edoardo in 2024
 //
 
 #include <stdio.h>
