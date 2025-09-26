@@ -1,0 +1,32 @@
+/* Rende la freccetta e il testo sempre sulla stessa riga */
+details summary {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* Spazio tra freccetta e testo */
+details summary::-webkit-details-marker {
+  margin-right: 0.4em;
+}
+
+details summary {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Freccia chiusa (▸) */
+details summary::before {
+  content: "▸";
+  font-size: 1.5em;   /* 👈 aumenta qui (1.2 → 1.5 se vuoi ancora più grande) */
+  margin-right: 0.6em;
+  transition: transform 0.2s ease;
+  color: #444;        /* più scuro per visibilità */
+}
+
+/* Freccia aperta (▾) */
+details[open] summary::before {
+  content: "▾";
+  font-size: 1.5em;   /* deve essere uguale al valore sopra */
+}

@@ -29,4 +29,5 @@ format:
   html:
     theme: journal
     toc: false
+    css: styles.css
     include-after-body: contents/footer.html
