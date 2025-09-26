@@ -29,3 +29,4 @@ format:
   html:
     theme: journal
     toc: false
+    include-after-body: contents/footer.html
