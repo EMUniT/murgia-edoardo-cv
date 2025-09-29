@@ -33,11 +33,11 @@ details[open] summary::before {
 
 /* Colore link in blu chiaro */
 a {
-  color: #1E90FF; /* Dodger Blue */
+  color: #1E90FF !important; /* Dodger Blue */
   text-decoration: underline;
 }
 
 /* Colore link quando ci passi sopra */
 a:hover {
-  color: #0066CC; /* un po' più scuro al passaggio */
+  color: #0066CC !important; /* un po' più scuro al passaggio */
 }
