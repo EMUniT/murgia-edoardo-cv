@@ -30,3 +30,14 @@ details[open] summary::before {
   content: "▾";
   font-size: 1.5em;   /* deve essere uguale al valore sopra */
 }
+
+/* Colore link in blu chiaro */
+a {
+  color: #1E90FF; /* Dodger Blue */
+  text-decoration: underline;
+}
+
+/* Colore link quando ci passi sopra */
+a:hover {
+  color: #0066CC; /* un po' più scuro al passaggio */
+}

@@ -45,3 +45,4 @@ format: html
 
 - <img src="resources/icons/envelope.png" width="13px"/> **Email:** edoardo.murgia@icloud.com  
 - <img src="resources/icons/phone-call.png" width="13px"/> **Mobile:** +39 340 642 9679 
+- <img src="resources/icons/linkedin_icon.png" width="13px"/> **LinkedIn:** [linkedin.com/in/edoardo-murgia-867510386](https://linkedin.com/in/edoardo-murgia-867510386)
