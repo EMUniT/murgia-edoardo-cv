@@ -68,3 +68,34 @@ I developed a longitudinal control system for an autonomous vehicle to manage in
 <span style="font-size:0.8em;">Unfortunately, when I wrote the code I did not add comments to make it easily readable by others. However, the main files that compose the project can be found in the following repository:</span>  
 [View the Code](https://github.com/EMUniT/murgia-edoardo-cv/tree/main/code){.btn .btn-primary .btn-sm target="_blank"}
 </details>
+<details>
+<summary><h2>Performance Analysis of a 10 MW Offshore Wind Turbine</h2></summary>
+
+**University of Trento** – Master’s Degree in Mechatronics Engineering  
+**Student:** *Edoardo Murgia*  
+**Supervisor:** *Prof. Moretti Giacomo, Prof. Tedeschi Elisabetta, Dr. Duranti Mattia*  
+**Academic Year:** *2024/2025*  
+**Course:** *Renewable Energy Conversion Systems*  
+
+### Overview  
+I analyzed the static and dynamic performance of the **DTU 10 MW offshore wind turbine**, installed off the Danish island of Anholt.  
+The study compared **stall-regulated (constant-speed, no-pitch)** and **pitch-regulated (variable-speed)** configurations under realistic wind conditions derived from two years of meteorological data.  
+**MATLAB** and **Simulink** were used to develop models for both cases, evaluate annual energy production, and investigate the turbine’s transient response to variable wind speeds and sensor noise.  
+
+### Key Features  
+- Estimation of **Weibull distribution** parameters for measured wind data and derivation of yearly wind speed statistics  
+- Static **energy yield computation** and **efficiency analysis** for stall- and pitch-regulated configurations  
+- Development of detailed **Simulink models** for both turbines, including **speed and pitch control loops**  
+- Dynamic simulations under **turbulent wind profiles** generated using the *Kaimal distribution* (10% turbulence intensity)  
+- **Robustness assessment** of pitch control under noisy anemometer measurements  
+- Comparison of **simulated power output** with theoretical power curves at different wind speeds  
+
+### Skills Applied  
+- Wind turbine aerodynamics and energy conversion modeling 
+- MATLAB and Simulink simulation and data analysis  
+- Control system design and dynamic performance evaluation  
+- Application of stochastic wind models (*Weibull*, *Kaimal*)  
+
+[View the Code](https://github.com/EMUniT/Renewable_Energies_WIND_POWER){.btn .btn-primary target="_blank"}
+
+</details>

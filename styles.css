@@ -33,11 +33,66 @@ details[open] summary::before {
 
 /* Colore link in blu chiaro */
 a {
-  color: #1E90FF !important; /* Dodger Blue */
+  color: #005f8f !important; /* Dodger Blue */
   text-decoration: underline;
 }
 
 /* Colore link quando ci passi sopra */
 a:hover {
-  color: #0066CC !important; /* un po' più scuro al passaggio */
+  color: #0280fe !important; /* un po' più scuro al passaggio */
+}
+
+/* =========================
+   BUTTON STYLE – Clean Portfolio
+   ========================= */
+
+/* Pulsanti principali (usati per link o call-to-action) */
+.btn, 
+button, 
+a.btn, 
+a.button {
+  background-color: #0077b6 !important;  /* blu profondo elegante */
+  color: #fff !important;                /* testo bianco */
+  border: none;
+  border-radius: 0.6em;
+  padding: 0.45em 1.1em;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Hover: colore più scuro, leggera ombra */
+.btn:hover,
+button:hover,
+a.btn:hover,
+a.button:hover {
+  background-color: #005f8f !important;  /* blu notte */
+  color: #fff !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Versione "outline" (solo bordo, utile per pulsanti secondari) */
+.btn-outline, 
+a.btn-outline {
+  background-color: transparent !important;
+  color: #0077b6 !important;
+  border: 2px solid #0077b6;
+  box-shadow: none;
+}
+
+.btn-outline:hover, 
+a.btn-outline:hover {
+  background-color: #0077b6 !important;
+  color: #fff !important;
+}
+
+/* Pulsanti disabilitati (opzionale) */
+.btn:disabled,
+button:disabled {
+  background-color: #ccc !important;
+  color: #666 !important;
+  box-shadow: none;
+  cursor: not-allowed;
 }
