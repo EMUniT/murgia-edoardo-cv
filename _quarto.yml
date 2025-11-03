@@ -16,13 +16,13 @@ website:
     style: "floating"
     collapse-level: 1
     contents:
-      - href: index.qmd
+      - file: index.qmd
         text: "About Me"
-      - href: contents/formazione.qmd
+      - file: contents/formazione.qmd
         text: "Education"
-      - href: contents/competenze.qmd
+      - file: contents/competenze.qmd
         text: "Skills"
-      - href: contents/projects.qmd
+      - file: contents/projects.qmd
         text: "Projects/Group-Works"
 
 format:

@@ -21,7 +21,7 @@ format: html
 ## <img src="resources/icons/info.png" width="20px"/> Generalities
 
 - <img src="resources/icons/calendar.png" width="13px"/> **Date of Birth:** 27/10/1997  
-- <img src="resources/icons/age.png" width="13px"/> **Age:** 27  
+- <img src="resources/icons/age.png" width="13px"/> **Age:** 28  
 - <img src="resources/icons/hospital.png" width="13px"/> **Place of Birth:** Negrar di Valpolicella, Veneto, Italy 
 - <img src="resources/icons/pisa-tower.png" width="13px"/> **Citizenship:** Italian  
 - <img src="resources/icons/home.png" width="13px"/> **Location:** Bologna, Emilia Romagna, Italy
