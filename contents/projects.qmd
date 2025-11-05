@@ -99,3 +99,39 @@ The study compared **stall-regulated (constant-speed, no-pitch)** and **pitch-re
 [View the Code](https://github.com/EMUniT/Renewable_Energies_WIND_POWER){.btn .btn-primary target="_blank"}
 
 </details>
+<details>
+<summary><h2>Energy Analysis of a Domestic Solar Thermal System</h2></summary>
+
+**University of Trento** – Master’s Degree in Mechatronics Engineering  
+**Student:** *Edoardo Murgia*  
+**Supervisor:** *Prof. Moretti Giacomo, Prof. Tedeschi Elisabetta, Dr. Duranti Mattia*  
+**Academic Year:** *2024/2025*  
+**Course:** *Renewable Energy Conversion Systems*  
+
+### Overview  
+I carried out a **static and dynamic analysis** of a **domestic solar thermal system** designed for **domestic hot water (DHW)** production in a two-person household located in Trento.  
+The system consists of a **flat plate collector** hydraulically connected to a **200 kg storage tank** placed in a cellar, with an auxiliary heater and heat exchanger.  
+The work aimed to assess the **energy yield**, **thermal dynamics**, and **solar fraction** of the system over representative days of winter and summer.  
+
+The **static analysis** focused on the collector’s monthly thermal performance using measured irradiance and temperature profiles, while the **dynamic simulations** were performed in **MATLAB** and **Simulink**, modeling transient interactions between collector, tank, and DHW demand.  
+
+### Key Features  
+- Development of a **Simulink model** representing the full system: **collector–tank–load–boiler**  
+- Implementation of **on–off pump control** and **auxiliary heater activation** logic based on tank temperature  
+- Evaluation of **collector thermal yield** and **tank temperature profiles** for **February 15** and **August 15**  
+- Definition of **realistic DHW consumption profiles** (flow rate and temperature) for two-person usage  
+- **Static monthly analysis** of energy yield based on radiation and ambient temperature data for Trento  
+- **Sensitivity analysis** on Tank volume, Heat exchanger effectiveness and ambient temperature
+- Determination of **solar and auxiliary shares** in covering daily thermal demand  
+- Verification of **periodic steady-state behavior** of tank temperature across days  
+
+### Skills Applied  
+- Thermal system modeling and **energy balance formulation**  
+- **MATLAB and Simulink** simulation of coupled thermofluidic subsystems  
+- Analysis of **collector efficiency** and **heat exchanger performance**  
+- **Parametric sensitivity** and performance optimization  
+- Processing and visualization of **time-series thermal data**  
+
+[View the Code](https://github.com/EMUniT/Renewable_Energies_SOLAR_THERMAL){.btn .btn-primary target="_blank"}
+
+</details>
