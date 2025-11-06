@@ -19,7 +19,7 @@ format: html
   *Level: Intermediate*
 
 ### Softwares & Tools
-- **MATLAB** / Simulink (basic familiarity – ongoing learning)
+- **MATLAB** / Simulink (basic to intermediate – ongoing learning)
 - **Fusion 360** (basic familiarity – ongoing learning)
 - **Ultimaker Cura** (basic familiarity in 3D printing – ongoing learning)
 - **Microsoft Office Suite** (advanced)
